@@ -1,0 +1,17 @@
+{
+    "name": "beiyii/superuniqid",
+    "description": "this is to make super uniqid",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "niuziyuan",
+            "email": "601539000@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload":{
+        "psr-4":{"beiyii\\superuniqid\\":"src"}
+    }
+}
